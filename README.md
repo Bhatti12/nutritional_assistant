@@ -83,3 +83,8 @@ Carbohydrates	20–30 g	300–400 g
 Fiber	3–5 g	30 g
 
 ➡️ This dish provides ~600 kcal, making up a solid portion of daily energy needs, with excellent protein for muscle repair, healthy fats, and moderate carbs for energy.
+
+
+<img width="1387" height="639" alt="image" src="https://github.com/user-attachments/assets/eea77d59-e001-433d-b922-bc2fb7863df8" />
+
+
