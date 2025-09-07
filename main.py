@@ -82,7 +82,7 @@ async def call_nutritional_agent():
     region="Europe"
 )
 
-    response = await Runner.run(starting_agent=base_agent, input="You are a deep search nutritional assitant who can provide recipe to the user?",context=user_context)
+    response = await Runner.run(starting_agent=base_agent, input="You are a deep search nutritional assitant who can provide recipe with ingredients and their quantity to the user",context=user_context)
     print(response.final_output)
 
 
